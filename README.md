@@ -16,7 +16,7 @@ The player who reaches the 52nd spot will WIN the game
 
 Cactus Jack & LUDO - ENTER KEY
 
-## Start  Screen
+## Start  Screens
 ![Title Screen](https://raw.githubusercontent.com/kamiigarrick/the-game-shop/main/Yellow%20%26%20Blue%20Retro%20Dice%20Game%20Logo.png)
 
 ![Title Screen](https://raw.githubusercontent.com/kamiigarrick/the-game-shop/main/Screenshot%202023-04-06%20180257.png)
