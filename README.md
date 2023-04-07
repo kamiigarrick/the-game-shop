@@ -21,5 +21,5 @@ Cactus Jack & Ludo - ENTER KEY
 
 ![Title Screen](https://raw.githubusercontent.com/kamiigarrick/the-game-shop/main/Screenshot%202023-04-06%20180257.png)
 
-![Title Screen](https://raw.githubusercontent.com/kamiigarrick/the-game-shop/main/Screenshot%202023-04-06%20175601.png)
+![Title Screen](https://raw.githubusercontent.com/kamiigarrick/the-game-shop/main/Screenshot%202023-04-06%20175601.png) 
 
