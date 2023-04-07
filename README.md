@@ -14,7 +14,7 @@ The player who reaches the 52nd spot will WIN the game
 
 ## Controls
 
-Cactus Jack & LUDO - ENTER KEY
+Cactus Jack & Ludo - ENTER KEY
 
 ## Start  Screens
 ![Title Screen](https://raw.githubusercontent.com/kamiigarrick/the-game-shop/main/Yellow%20%26%20Blue%20Retro%20Dice%20Game%20Logo.png)
