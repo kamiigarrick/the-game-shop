@@ -23,8 +23,5 @@ Cactus Jack & LUDO - ENTER KEY
 
 ![Title Screen](https://raw.githubusercontent.com/kamiigarrick/the-game-shop/main/Screenshot%202023-04-06%20175601.png)
 
-remote theme: pages-themes/cayman@v0.2.0
-plugins
-- jekyll-remote-theme
 
 
